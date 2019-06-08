@@ -1,9 +1,9 @@
-#include<iostream>
+﻿#include<iostream>
 #include<cstdlib>
 #include<cstring>
 #include<string>
 #include<fstream>
-
+//benes
 const int PRIMO = 37;
 const int TAM = 7;
 
